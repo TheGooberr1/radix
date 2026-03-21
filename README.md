@@ -3,7 +3,8 @@
 
 © 2025 TheGooberr1. All rights unmentioned in the project's license (MPL-2.0) are reserved.<br/>
 
-[![MPL-2.0 License](https://img.shields.io/badge/License-MPL_2.0-red.svg)](https://choosealicense.com/licenses/mpl-2.0/) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TheGooberr1/radix/total)
+[![MPL-2.0 License](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://choosealicense.com/licenses/mpl-2.0/) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TheGooberr1/radix/total)
+
 
 
 _Powered by magic!_<br/>
