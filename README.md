@@ -3,20 +3,19 @@
 
 © 2025 TheGooberr1. All rights unmentioned in the project's license (MPL-2.0) are reserved.<br/>
 
+[![MPL-2.0 License](https://img.shields.io/badge/License-MPL_2.0-red.svg)](https://choosealicense.com/licenses/mpl-2.0/)<br/>
+
 _Powered by magic!_<br/>
 </div>
 
 <br/>
 
-### _What is Radix?_
-> Radix has no description yet. My bad guys, I was writing this README late at night. :)
+# _What Is Radix?_
+_Radix is a highly customizable IDE built with both Linux and Windows in mind._
+<br/>
 
 <br/>
 
 ### _Important Information_
->_This project is probably not going to release for a LONG time._<br/>
-
+>_- This project is probably not going to release for a LONG time._<br/>
 <br/>
-
-### _License_
-> No description yet. My bad.
