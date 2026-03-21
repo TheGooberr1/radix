@@ -1,3 +1,1 @@
-fn main() {
-    println!("Hello, world!");
-}
+// I hate rust bro
