@@ -1,5 +1,5 @@
 <div align="center">
-<img width="256" height="256" alt="Main Icon" src="assets/logos/radix-512x512.png"/><br/>
+<img width="256" height="256" alt="Main Icon" src="assets/logos/radix-512x512-2.png"/><br/>
 
 © 2025 TheGooberr1. All rights unmentioned in the project's license (MPL-2.0) are reserved.<br/>
 
